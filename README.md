@@ -9,3 +9,15 @@ In the project directory, you can run:
 ### `npm install`
 
 ### `npm start`
+
+Simple Todo app.
+
+- A list of To Do’s
+
+- Adding, editing and deleting To Do’s
+
+- Setting a due date
+
+- Marking as completed
+
+- Persisting data (data stored in local storage)
